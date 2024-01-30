@@ -28,7 +28,7 @@ config ZMK_SPLIT
     default y
 
 config ZMK_DISPLAY
-	select LV_FONT_MONTSERRAT_26
+	select LV_FONT_MONTSERRAT_18
 
 if ZMK_DISPLAY
 
