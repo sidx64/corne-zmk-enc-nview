@@ -18,3 +18,7 @@
 &right_encoder {
     status = "okay";
 };
+
+&qspi { 
+        status = "disabled"; 
+};

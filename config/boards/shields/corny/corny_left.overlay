@@ -16,3 +16,7 @@
  *       status = "okay";
  *   };
  */
+
+&qspi { 
+        status = "disabled"; 
+};

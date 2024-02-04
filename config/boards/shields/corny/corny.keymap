@@ -54,3 +54,7 @@
                 };
         };
 };
+
+&qspi { 
+        status = "disabled"; 
+};
